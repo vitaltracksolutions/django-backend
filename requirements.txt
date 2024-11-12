@@ -1,0 +1,5 @@
+djangorestframework
+pygments
+psycopg2-binary
+Django
+django-cors-headers
