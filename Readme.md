@@ -1,2 +1,3 @@
 Create Pyenv `python -m venv venv`
-Run `python manage.py runserver`
+Run `docker-compose up`
+Create Super user: `docker-compose up run root python manage.py createsuperuser`
